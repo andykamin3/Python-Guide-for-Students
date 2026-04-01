@@ -3,9 +3,9 @@ This set of Jupyter notebooks serve as an introduction to Python for students ta
 
 All of the notebooks will include little exercises to practice what you've learned and will include a solved version like `intro.ipynb` and `intro_solved.ipnyb`. 
 
-Throughout this notebooks we will work with an imaginary [Crazyflie](https://www.bitcraze.io/products/crazyflie-2-1/) drone. These drones are very common as a research tool and will give us a great example on which to apply our Python knowledge. By the end of these notebooks you will have built a very simple, custom crazyflie simulation. 
+Throughout this notebooks we will work with an imaginary [Crazyflie](https://www.bitcraze.io/products/crazyflie-2-1/) drone. These drones are very common as a research tool and will give us a great example on which to apply our Python knowledge. By the end of these notebooks you will have built a very simple, crazyfile trajectory simulation. 
 
-> **Note:** The resulting simulation does not represent how a real robotics simulation works and it is just a toy example.
+> **Note:** The resulting program does not represent how a real drone simulation works and it is just a toy example. 
 
 We will discuss the following subjects which are directly related to the other labs:
 
