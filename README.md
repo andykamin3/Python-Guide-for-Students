@@ -1,9 +1,9 @@
 # Introduction
 This set of Jupyter notebooks serve as an introduction to Python for students taking the course Advanced Robotics Laboratory (00340401). 
 
-All of the notebooks will include little exercises to practice what you've learned and will include a solved version like `1-Introduction-to-Python-student.ipynb` and `1-Introduction-to-Python.ipnyb` (solved). 
+All of the notebooks will include little exercises to practice what you've learned and will include a solved version like `1-Introduction-to-Python-student.ipynb` and `1-Introduction-to-Python.ipynb` (solved). 
 
-Throughout this notebooks we will work with an imaginary [Crazyflie](https://www.bitcraze.io/products/crazyflie-2-1/) drone. These drones are very common as a research tool and will give us a great example on which to apply our Python knowledge. By the end of these notebooks you will have built a very simple, crazyfile trajectory simulation. 
+Throughout this notebooks we will work with an imaginary [Crazyflie](https://www.bitcraze.io/products/crazyflie-2-1/) drone. These drones are very common as a research tool and will give us a great example on which to apply our Python knowledge. By the end of these notebooks you will have built a very simple, Crazyflie trajectory simulation. 
 
 > **Note:** The resulting program does not represent how a real drone simulation works and it is just a toy example. 
 
